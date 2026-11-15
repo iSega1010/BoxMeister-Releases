@@ -1,0 +1,2 @@
+69010601faf1510b21cbaacc88a8ef35c5f908bcb05be330a16bb1d5b18a569d  BoxMeisterSetup.exe
+19d18f61dd67bd19a7fa313a9808f54f124b0ef648b4bb796d37d70c1b1db8ff  BoxMeister-Kompas22-x64.zip
