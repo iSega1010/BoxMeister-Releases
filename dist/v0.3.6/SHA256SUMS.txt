@@ -1,0 +1,2 @@
+015e7a5d24f94b1f5df5ed9230a55a45cb5fd911bb6d56a7d299ef726fb62975  BoxMeisterSetup.exe
+4bb0ce6033ed844d105817d89a27f9eae3adad129d6b7ae1b29af96c149f777d  BoxMeister-Kompas22-x64.zip
